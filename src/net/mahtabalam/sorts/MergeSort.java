@@ -6,7 +6,7 @@ public class MergeSort {
 
 	public static void main(String[] args) {
 		// int[] a = { 5, 1, 6, 2, 3, 4 };
-		 int []a = { 15, 1, 63, 20, 31, -4 };
+		 int []a = { 7, 87, 3, 9, 23, 43, 17 };
 		// int []a = { 5, 1, 63, -1, 31, -4, 0 };
 		// int []a = { 9, 1, 8, -1, 7, -4, 6 };
 		// int[] a = { 36, 30, 1 };
@@ -38,7 +38,7 @@ public class MergeSort {
 
 	public static void merge(int[] array, int[] leftArr, int[] rightArr) {
 
-		System.out.println("merge(" + Arrays.toString(array) + ", " +Arrays.toString(leftArr) + ", "
+		System.out.println("merge(" +Arrays.toString(leftArr) + ", "
 				+ Arrays.toString(rightArr) + " )");
 
 		int left = leftArr.length;

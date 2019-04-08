@@ -3,15 +3,13 @@ package net.mahtabalam.merge;
 public class TwoWayMerge {
 
 	public static int[] merge(int[] arr1, int[] arr2) {
-
 		int left = arr1.length;
 		int right = arr2.length;
 		int[] array = new int[left+right];
-
+		
 		int i = 0, j = 0, k = 0;
 
 		while (i < left && j < right) {
-
 			if (arr1[i] <= arr2[j]) {
 				array[k] = arr1[i];
 				i++;
