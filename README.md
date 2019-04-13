@@ -9,7 +9,7 @@ Merge Sort
 
 [Merge Sort - Part 2 (Merge sort implementation)](https://www.youtube.com/watch?v=EkwiSBovWI0 "Merge Sort Implementation")
 
-[Marge Sort - Part 3 (Merge sort runtime and space complexity)](https://www.youtube.com/watch?v=X8Hfpg-s0Ro "Merge Sort runtime and space complexity ")
+[Merge Sort - Part 3 (Merge sort runtime and space complexity)](https://www.youtube.com/watch?v=X8Hfpg-s0Ro "Merge Sort runtime and space complexity ")
 
 
 
